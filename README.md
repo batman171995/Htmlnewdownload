@@ -26,8 +26,7 @@ Download videos from various websites using this telegram bot
 ### Heroku
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DaruaraFriends/VideoDownloaderBot)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botdrm/htmldownload)
 #### Docker
 - Make sure heroku-cli is installed  `npm i -g heroku`
 ```sh
